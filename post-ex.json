@@ -1,0 +1,9 @@
+{
+    "id": 0,
+    "name": "fifa",
+    "taskmanagerNumber": "1",
+    "labels": "fifa:fifa",
+    "annotations": "fifa:fifa",
+    "config": "",
+    "ssl": true
+}
